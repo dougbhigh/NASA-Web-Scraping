@@ -2,7 +2,8 @@
 #  RUT-SOM-DATA-PT-06-2020-U-C                                                      Douglas High #
 #   Web Scraping Challenge                                                       August 31, 2020 #
 #      >scrape_mars                                                                              #
-#   - program converted from mssion_to_mars.ipynb, which contains more detailed documentation.   #
+#   - program converted from mssion_to_mars.ipynb.                                               #
+#   - extract data from Nasa websites (01-04), put in dictionary and then mongo db (10).         #
 ##################################################################################################
 
 ###################################################
