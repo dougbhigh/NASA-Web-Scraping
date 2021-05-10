@@ -4,4 +4,4 @@
 - create interactive web pages to display information and get news feed updates.
 - Use Flask to control web page routing and host via Heroku.
 
-![mission_to_mars](Images/screenshota.png)
+![mission_to_mars](https://github.com/dougbhigh/Web-Scraping-Challenge/blob/master/images/screenshota.png)
