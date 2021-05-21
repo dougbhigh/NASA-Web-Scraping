@@ -1,11 +1,13 @@
-##################################################################################################
-#  RUT-SOM-DATA-PT-06-2020-U-C                                                      Douglas High #
-#   Web Scraping Challenge                                                       August 31, 2020 #
-#      >scrape_mars                                                                              #
-#   - program converted from mssion_to_mars.ipynb (original version scrape_mars_original.opy).   #
-#     (see either for more documented processing)                                                #
-#   - extract data from Nasa websites (01-04) and return to calling program.                     #
-##################################################################################################
+###################################################################################################
+#  RUT-SOM-DATA-PT-06-2020-U-C                                                       Douglas High #
+#   Web Scraping Challenge                                                        August 31, 2020 #
+#      >scrape_mars                                                                               #
+#   - program converted from mssion_to_mars.ipynb (original version scrape_mars_original.opy).    #
+#     (see either for more documented processing)                                                 # 
+#   - extract data from Nasa websites (01-04) and return to calling program.                      #
+#  *- 5/2021 - git repo and local folder name changed to NASA-Web-Scraping, no code changes made  #
+#              however, featured image page has changed, code needs to be modified.               #
+###################################################################################################
 
 ###################################################
 #00    I/O                                        #
